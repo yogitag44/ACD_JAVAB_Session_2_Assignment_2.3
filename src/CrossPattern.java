@@ -18,7 +18,7 @@ public class CrossPattern {
 					System.out.print(" "); //To print space between stars
 				}
 			}
-		System.out.println();   //to get to the next line.
+		System.out.println();   //to get to the next line.s
 
 		}
 	}
